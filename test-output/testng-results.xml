@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27339" started-at="2018-12-14T13:02:04Z" finished-at="2018-12-14T13:02:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27339" started-at="2018-12-14T13:02:04Z" finished-at="2018-12-14T13:02:31Z">
+      <class name="com.git.github.GmailLogin">
+        <test-method status="PASS" signature="main()[pri:0, instance:com.git.github.GmailLogin@482f8f11]" name="main" duration-ms="27308" started-at="2018-12-14T13:02:04Z" finished-at="2018-12-14T13:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- com.git.github.GmailLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
